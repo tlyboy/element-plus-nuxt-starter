@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "1.0.0-beta.27",
+    "@element-plus/nuxt": "^1.0.6",
     "@iconify-json/carbon": "^1.1.21",
     "@nuxt/devtools": "latest",
     "@nuxtjs/color-mode": "^3.3.0",
@@ -28,6 +29,7 @@
     "@vueuse/nuxt": "^10.6.0",
     "eslint": "^8.53.0",
     "nuxt": "^3.8.1",
+    "sass": "^1.69.5",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
   }
