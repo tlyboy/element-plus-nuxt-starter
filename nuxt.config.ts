@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: [
     '@unocss/reset/tailwind.css',
+    '~/assets/styles/main.css',
     '~/assets/styles/index.scss',
   ],
   modules: [
