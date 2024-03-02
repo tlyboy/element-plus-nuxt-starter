@@ -3,6 +3,9 @@ import { appName } from '~/constants'
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
 useHead({
+  htmlAttrs: {
+    lang: 'zh-CN',
+  },
   title: appName,
 })
 
