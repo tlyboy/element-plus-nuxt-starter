@@ -633,10 +633,10 @@ packages:
       element-plus: '>=2'
     dependencies:
       '@element-plus/icons-vue': 2.3.1(vue@3.4.21)
-      '@nuxt/kit': 3.11.1
+      '@nuxt/kit': 3.11.2
       element-plus: 2.6.0(vue@3.4.21)
       magic-string: 0.27.0
-      unplugin: 1.10.0
+      unplugin: 1.10.1
     transitivePeerDependencies:
       - rollup
       - supports-color
