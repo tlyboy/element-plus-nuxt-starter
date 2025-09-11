@@ -1,3 +1,3 @@
 <template>
-  <div>Nuxt starter</div>
+  <div>Element Plus Nuxt starter</div>
 </template>
