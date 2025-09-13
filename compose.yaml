@@ -1,5 +1,5 @@
 services:
-  nuxt-starter:
+  element-plus-nuxt-starter:
     build: .
     restart: unless-stopped
     ports:
