@@ -1,0 +1,9 @@
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+  - vue-demi
+
+shamefullyHoist: true
+
+overrides:
+  vite: npm:rolldown-vite@latest
