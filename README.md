@@ -13,6 +13,7 @@ npx degit tlyboy/element-plus-nuxt-starter my-project
 ```bash
 pnpm install
 pnpm dev
+pnpm build
 ```
 
 ## 使用许可
